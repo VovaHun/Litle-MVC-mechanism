@@ -1,0 +1,55 @@
+
+.wrapper{
+    width: 40%;
+    padding-top: 3%;
+    margin: 0 auto;
+}
+.content{
+    width: 80%;
+    padding-top: 3%;
+    margin: 0 auto;
+}
+.task{
+    width: 70%;
+    padding-top: 1%;
+    margin: 0 auto;
+}
+.sort{
+    width: 10%;
+    position: absolute;
+    padding-top: 1%;
+}
+
+.sort a{
+    font-size: 10pt;
+    text-decoration: none;
+    font-weight: 600;
+}
+
+
+.formin{
+    width: 50%;
+    padding-top: 1%;
+    margin: 0 auto;
+}
+/* Таблица задач */
+.usname{
+    width: 20%;
+}
+.em{
+    width: 30%;
+}
+.check{
+    width: 5%;
+}
+.thname{
+    text-align: center;
+}
+.areastyle{
+    height: 5%;
+}
+#msg{
+    display: none;
+    color: red;
+}
+
